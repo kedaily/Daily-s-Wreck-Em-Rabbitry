@@ -9,6 +9,16 @@
     Supporting Files: plan.md, retrospective.md, scope.md, index.html, about.html, README.md
 */
 
-body {background-color: #ededed}
+body {background-color: #000000}
 header {background-color: #000000}
 header {color: #e90802}
+header {text-align: center}
+ul {color: #e90802}
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* Keeps image centered and un-squashed */
+  border-radius: 48%;
+  border: 5px solid #333; /* Optional frame/border */}
+body {color: #FFFFFF}
+footer {text-align: center; color: #e90802; font-size: larger}
