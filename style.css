@@ -9,4 +9,6 @@
     Supporting Files: plan.md, retrospective.md, scope.md, index.html, about.html, README.md
 */
 
-body {background-color: #ffffff; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;} 
+body {background-color: #ededed}
+header {background-color: #000000}
+header {color: #e90802}
